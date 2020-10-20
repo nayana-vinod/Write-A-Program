@@ -16,8 +16,8 @@ For example:
       * For example, a cpp program use wrote to learn classes and inheritance might not be understandable from the short file name, hence describe what your problem or question was as a multi-line comment.
 
 * CamelCase is preffered for file naming but if you have a different taste, then you do you.
-     * (Camel case is the practice of writing phrases without spaces or punctuation, indicating the separation of words with a single capitalized letter, and the first word starting with either case.     
-     * Definition source: Wikipedia)
+     * Camel case is the practice of writing phrases without spaces or punctuation, indicating the separation of words with a single capitalized letter, and the first word starting with either case.     
+     * Definition source: Wikipedia
      * For example: camelCase
 
 * Do remember to add your file with the format fileName.lang where fileName is a short description of your program in 1-2 words and lang is the programming language you used. 
