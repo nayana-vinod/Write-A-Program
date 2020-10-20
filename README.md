@@ -3,11 +3,11 @@ A collection of different programs in different languages.
 
 Your Program can be anything from a simple Hello World program to a complex Data Structure Program.
 
-Select the language of your program and add your code in that particular folder
-If the language you are looking for is not already available, you are free to create a folder with that language name and add your files to that.
+* Select the language of your program and add your code in that particular folder
+* If the language you are looking for is not already available, you are free to create a folder with that language name and add your files to that.
 
-Different types of folders might be available for a same type of programs, if yeah add yours to those. 
-If no and you feel like a group folder is needed then add one, no worries:)
+* Different types of folders might be available for a same type of programs, if yeah add yours to those. 
+* If no and you feel like a group folder is needed then add one, no worries:)
 
 For example:
       You wrote a pattern program in c++. 
