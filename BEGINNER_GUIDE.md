@@ -55,7 +55,7 @@ Now, wait for the Project Maintainer to review and accept your pull request beof
 
 Go to [__Hacktoberfest/DigitalOcean__](https://hacktoberfest.digitalocean.com/) to view the updates.
   
-There are a lot of videos and articles available online which will help you if you got stuck at any point.
+There are plenty videos and articles available online to help you if you got stuck at any point.
   
 Would be mean a lot if you star⭐ this repo..
 
