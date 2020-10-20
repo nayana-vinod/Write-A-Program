@@ -6,18 +6,18 @@
   * No matter how little you thunk your knowledge level is you still can contribute to open source.
   
   ### Some Resources
-      * [_**What is Open Source**_](https://opensource.com/resources/what-open-source)
-      * [_**How can I Contribute to Open Source**_](http://opensource.guide/how-to-contribute/)
+   * [_**What is Open Source**_](https://opensource.com/resources/what-open-source)
+   * [_**How can I Contribute to Open Source**_](http://opensource.guide/how-to-contribute/)
       
-##Hacktoberfest
+## Hacktoberfest
   * Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and Twilio. 
   * Hacktoberfest is open to everyone in our global community! 
   
   ### Some Resources
-      * [_**About Hacktoberfest**_](https://hacktoberfest.digitalocean.com/faq)
-      * [_**Register for Hacktoberfest**_](https://hacktoberfest.digitalocean.com/)Do Start Hacking here and Register
+   * [_**About Hacktoberfest**_](https://hacktoberfest.digitalocean.com/faq)
+   * [_**Register for Hacktoberfest**_](https://hacktoberfest.digitalocean.com/)Do Start Hacking here and Register
       
-##How to Contribute or Commite PRs
+## How to Contribute or Create A Pull Request
   * Step 1: 'Fork' this repo (Top right corner). Repo is just a short from of Repository
       * Forking means a copy of this repo will be available in your account which you can edit.
   * Step 2: Go to your account (The icon with your profile picture, top right corner)
@@ -53,7 +53,7 @@
   
 Now, wait for the Project Maintainer to review and accept your pull request beofre creating another PR on the same repo.(You will get a mail and notification)
 
-Go to [__Hacktoberfest__](https://hacktoberfest.digitalocean.com/) to view the updates.
+Go to [__Hacktoberfest/DigitalOcean__](https://hacktoberfest.digitalocean.com/) to view the updates.
   
 There are a lot of videos and articles available online which will help you if you got stuck at any point.
   
