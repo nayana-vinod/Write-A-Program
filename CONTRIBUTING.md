@@ -11,16 +11,16 @@ For example:
         * If there is c++ folder,but no pattern folder inside - add a pattern folder and add your program 
         * If there is a c++ folder and a pattern folder inside already add yours in to that.
         
-Add your program with the appropriate name short and clear enough to recognize what your progarm is about.
-If you feel like a short simple name cannot describe your program well enough, comment the description in the beginning of the program.
-      For example, a cpp program use wrote to learn classes and inheritance might not be understandable from the short file name, hence describe what your problem or question was as a multi-line comment.
+* Add your program with the appropriate name short and clear enough to recognize what your progarm is about.
+* If you feel like a short simple name cannot describe your program well enough, comment the description in the beginning of the program.
+      * For example, a cpp program use wrote to learn classes and inheritance might not be understandable from the short file name, hence describe what your problem or question was as a multi-line comment.
 
-CamelCase is preffered for file naming but if you have a different taste, then you do you.
-(Camel case is the practice of writing phrases without spaces or punctuation, indicating the separation of words with a single capitalized letter, and the first word starting with either case.
-For example: camelCase
-Definition source: Wikipedia)
+* CamelCase is preffered for file naming but if you have a different taste, then you do you.
+     * (Camel case is the practice of writing phrases without spaces or punctuation, indicating the separation of words with a single capitalized letter, and the first word starting with either case.     
+      * Definition source: Wikipedia)
+      * For example: camelCase
 
-Do remember to add your file with the format fileName.lang where fileName is a short description of your program in 1-2 words and lang is the programming language you used. 
+* Do remember to add your file with the format fileName.lang where fileName is a short description of your program in 1-2 words and lang is the programming language you used. 
     For example: sumOfTwoNumbers.cpp or invertedTriangle.py etc.
     
 ## Adding solutions to existing problems
