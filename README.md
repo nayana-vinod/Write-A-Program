@@ -52,10 +52,7 @@ Wait for your PR review and merge approval:smiley:
 [_**Code of Conduct**_](CODE_OF_CONDUCT.md)
 
 
-Would be mean a lot if you star⭐ this repo..pretty please</3
-
-Also go check out the links and resources provided.
-
+Would be mean a lot if you star⭐ this repo..pretty please💛
 
 🎉**Congratulations! You are all good to go!!**🎉
 
