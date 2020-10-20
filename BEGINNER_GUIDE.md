@@ -46,7 +46,7 @@
       * Click on 'Pull Request' towards the end of this sentance.
       * If there are no merging conflicts, it will show  'Able to merge. These branches can be automatically merged'.
       * Click on 'Create Pull Request'(Green button).
-      * Add a name like added sum.cpp if it's blank. And an optional description about the changes you made.
+      * Add the 'Title' with what changes or what contributions you made like added sum.cpp if it's blank. And an optional description about the changes you made for better understanding of the PR intention and also makes your Pull Request more acceptable.
       * Now again 'Create a Pull Request'(Green Button)
   * Step 10: There you are! You have successfully created a Pull Request. Congratulations🎉🎉
       * If you wanna verify this, Go to 'enchantedfirefly/Write-A-Program', Go to Pull Requests(navigation bar), and you will see your PR there.
