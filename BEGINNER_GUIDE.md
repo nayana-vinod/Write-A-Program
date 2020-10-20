@@ -39,7 +39,7 @@
   * Step 7: Now click on 'Add File'(Green box), then Upload File and drag and drop your file from your computer.
         PS: If you don't want to write the program on your computer,you can go to 'Add File'(Green box), then 'Create New File' as programName.lang and write your code
   * Step 8: Commit your code
-      * Select Commit directly to the master branch option(Auto Selected). This means you are adding your changes, let them be files or errors corrections anything directly to your copy of the repo.
+      * Select Commit directly to the master branch option(Auto Selected). This means you are adding your changes, let them be files or errors corrections anything directly to your repo directly.
       * Now click on 'Commit New File'(Green Button)
   * Step 9: Pull Request(Pull Request is requesting the master repo/project maintainer to add your contribution to the original repo)
       * At 'yourGithubUsername/Write-A-Program', you will see a similar sentance: 'This branch is 1 commit ahead, 2 commits behind enchantedfirefly:master'.(The numbers can vary).
