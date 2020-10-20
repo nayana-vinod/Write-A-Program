@@ -37,7 +37,7 @@
             * If there is c++ folder,but no pattern folder inside - add a pattern folder and add your program.
             * If there is a c++ folder and a pattern folder inside already add yours in to that.
   * Step 7: Now click on 'Add File'(Green box), then Upload File and drag and drop your file from your computer.
-        PS: If you don't want to write the program on your computer,you can go to 'Add File'(Green box), then 'Create New File' as programName.lang and write your code
+       * PS: If you don't want to write the program on your computer,you can go to 'Add File'(Green box), then 'Create New File' as programName.lang and write your code
   * Step 8: Commit your code
       * Select Commit directly to the master branch option(Auto Selected). This means you are adding your changes, let them be files or errors corrections anything directly to your repo directly.
       * Now click on 'Commit New File'(Green Button)
