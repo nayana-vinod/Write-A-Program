@@ -43,7 +43,7 @@
       * Now click on 'Commit New File'(Green Button)
   * Step 9: Pull Request(Pull Request is requesting the master repo/project maintainer to add your contribution to the original repo)
       * At 'yourGithubUsername/Write-A-Program', you will see a similar sentance: 'This branch is 1 commit ahead, 2 commits behind enchantedfirefly:master'.(The numbers can vary).
-      * Pull Request and icon will be displayed after this sentance, click on that.
+      * Click on 'Pull Request' towards the end of this sentance.
       * If there are no merging conflicts, it will show  'Able to merge. These branches can be automatically merged'.
       * Click on 'Create Pull Request'(Green button).
       * Add a name like added sum.cpp if it's blank. And an optional description about the changes you made.
