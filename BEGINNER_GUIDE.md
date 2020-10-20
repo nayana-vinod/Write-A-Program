@@ -15,7 +15,7 @@
   
   ### Some Resources
    * [_**About Hacktoberfest**_](https://hacktoberfest.digitalocean.com/faq)
-   * [_**Register for Hacktoberfest**_](https://hacktoberfest.digitalocean.com/)Do Start Hacking here and Register
+   * [_**Register for Hacktoberfest**_](https://hacktoberfest.digitalocean.com/) (Click on Start Hacking to Register for Hacktoberfest.)
       
 ## How to Contribute or Create A Pull Request
   * Step 1: 'Fork' this repo (Top right corner). Repo is just a short from of Repository
