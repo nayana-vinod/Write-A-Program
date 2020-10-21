@@ -43,7 +43,7 @@ Commit and push
 
 Create a new pull request from your forked repository.
 
-Wait for your PR review and merge approval:smiley:
+Wait for your PR review and merge approval:smiley: OK:)
 
 
 ## Important links and some helping tools
