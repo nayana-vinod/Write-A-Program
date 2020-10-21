@@ -11,7 +11,7 @@ int main()
     cout << "Enter the operator: ";
     cin >> op;
     
-    switch(op)
+    switch(op)// For comapring the character op
     {
         case '+':
             cout <<num1<<" "<<op<<" "<<num2<<" = "<<num1+num2;
