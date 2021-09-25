@@ -21,7 +21,7 @@ For example:
 Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 Clone your fork down to your local machine
 
-    git clone https://github.com/enchantedfirefly/write-a-program.git
+    git clone https://github.com/nayana-vinod/write-a-program.git
 
 Create a branch
 
